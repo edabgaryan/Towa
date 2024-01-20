@@ -1,0 +1,12 @@
+.about-w-b__t-b__img {
+    max-width: 43px;
+    margin-right: 25px;
+  }
+  @media screen and (max-width: 769px) {
+    .about-w-b__t-b__img {
+      width: 70px;
+      margin-right: 0px;
+      margin-bottom: 20px;
+      max-width: 100%;
+    }
+  }

@@ -1,0 +1,12 @@
+.about-w-b__sb {
+    color: #020710A6;
+    font-family: "Outfit", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.7em;
+  }
+  @media screen and (max-width: 769px) {
+    .about-w-b__sb {
+      font-size: 16px;
+  }
+  }

@@ -1,0 +1,15 @@
+.FooterElements__title {
+    text-align: left;
+    color: #020710;
+    font-family: "Outfit", Sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.1em;
+    letter-spacing: -0.1px;
+    padding-bottom: 20px;
+  }
+  @media screen and (max-width: 760px) {
+    .FooterElements__title {
+      font-size: 35px;
+    }
+  }

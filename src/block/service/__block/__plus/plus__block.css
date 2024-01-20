@@ -1,0 +1,8 @@
+.plus__block {
+    display: flex;
+  }
+  @media screen and (max-width: 1200px) {
+    .plus__block {
+      flex-direction: column;
+    }
+}

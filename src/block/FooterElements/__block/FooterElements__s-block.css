@@ -1,0 +1,11 @@
+.FooterElements__s-block {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1200px;
+}

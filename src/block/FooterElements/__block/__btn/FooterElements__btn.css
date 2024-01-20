@@ -1,0 +1,16 @@
+.FooterElements__btn {
+    font-family: "Outfit", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.7px;
+    fill: #FFB92B;
+    color: #FFB92B;
+    background-color: #020710;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-color: #020710;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 0px 0px 0px #020710;
+    padding: 18px 25px 18px 25px;
+    cursor: pointer;
+   }

@@ -1,0 +1,24 @@
+.carousel-indicators, .carousel-control-prev, .carousel-control-next {
+    display: none;
+  }
+  
+  .carousel-item {
+    background-color: black;
+  }
+  .carousel-caption {
+    text-align: start;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  @media screen and (max-width: 970px) {
+    .carousel-caption {
+      text-align: center;
+      top: 200px;
+    }
+  }
+  @media screen and (max-width: 499px) {
+    .carousel-caption {
+      top: 90px;
+    }
+  }

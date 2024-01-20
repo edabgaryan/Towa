@@ -1,0 +1,9 @@
+.faq-b__text {
+    padding: 0px 0px 40px 0px;
+    max-width: 620px
+  }
+  @media screen and (max-width: 1200px) {
+    .faq-b__text {
+      padding: 0px 20px 40px 20px;
+    }
+  }

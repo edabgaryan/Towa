@@ -1,0 +1,11 @@
+.section__block-title {
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+  .section__block-title:hover {
+    color: #020710A6;
+  }

@@ -1,0 +1,18 @@
+.faq {
+    position: relative;
+    background-color: #00000029;
+  }
+  .faq::after {
+      content: "";
+      background: url(https://i.ibb.co/yB75QjK/about.png);
+      background-position: 100% 40%;
+      background-repeat: repeat;
+      background-size: 35% auto;
+      opacity: 0.13;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      z-index: -1;
+}

@@ -1,0 +1,16 @@
+.header {
+  margin-top: 0;
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background: transparent;
+  transition: all 0ms;
+}
+
+@media screen and (max-width: 1200px) {
+  .header {
+    z-index: 2;
+    background: black;
+    height: 70px;
+  }
+}

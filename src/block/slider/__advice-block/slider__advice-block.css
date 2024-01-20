@@ -1,0 +1,9 @@
+.slider__advice-block {
+    display: flex;
+    margin: 20px 0;
+  }
+  @media screen and (max-width: 970px) {
+    .slider__advice-block {
+      justify-content: center;
+    }
+  }

@@ -1,0 +1,17 @@
+.elementor-icon {
+    line-height: 1;
+    transition: all .3s;
+    background-color: black;
+    font-size: 25px;
+    text-align: center;
+    height: 48px;
+    width: 48px;
+    border-radius: 50px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .e-icon-w {
+    background-color: white ;
+  }

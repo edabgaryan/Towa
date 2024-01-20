@@ -1,0 +1,22 @@
+.slider__paragraph {
+  color: #FFFFFFD4;
+  line-height: 20px;
+  font-size: 22px;
+  margin: 20px 0;
+  max-width: 70%;
+  line-height: 40px;
+}
+@media screen and (max-width: 1300px) {
+  .slider__paragraph {
+    font-size: 20px;
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 760px) {
+  .slider__paragraph {
+    font-size: 15px;
+    margin: 10px 0;
+    line-height: 25px;
+
+  }
+}

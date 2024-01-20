@@ -1,0 +1,16 @@
+.h-menu__btn {
+    margin-left: 30px;
+    background-color: #FFB92B; /* Green */
+    border-radius: 10px;
+    color: black;
+    padding: 12px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.5s;
+}
+.h-menu__btn:hover {
+    background-color: black ;
+    color: white;
+}

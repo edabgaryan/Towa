@@ -1,0 +1,18 @@
+.about-w-b__text {
+    padding: 10px;
+  }
+  
+  .about-w-b__text-block-first,.about-w-b__text-block-second {
+    display: flex;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  @media screen and (max-width: 769px) {
+    .about-w-b__text-block-first,.about-w-b__text-block-second {
+      display: flex;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      text-align: center;
+      justify-content: center;
+    }
+  }

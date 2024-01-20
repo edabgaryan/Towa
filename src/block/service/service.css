@@ -1,0 +1,17 @@
+.service {
+    position: relative;
+  }
+  .service::after {
+  content: "";
+  background: url(https://i.ibb.co/7GLghDd/service.png);
+  background-position: 50% 90%;
+  background-repeat: repeat;
+  background-size: 12% auto;
+  opacity: 0.1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+  }

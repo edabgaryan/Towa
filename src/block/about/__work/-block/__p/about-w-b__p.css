@@ -1,0 +1,15 @@
+.about-w-b__p {
+    color: #727272;
+    font-family: "Outfit", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1.3em;
+    letter-spacing: 1px;
+    padding: 0px 0px 15px 0px;
+}
+@media screen and (max-width: 769px) {
+  .about-w-b__p {
+    font-size: 14px;
+}
+}

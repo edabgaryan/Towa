@@ -1,0 +1,17 @@
+.s-btn__btn {
+    background-color: #FFB92B;
+    border-radius: 4px;
+    color: black;
+    padding: 18px 25px 18px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.5s;
+    cursor: pointer;
+    width: 155px;
+ }
+.s-btn__btn:hover {
+  background-color: white ;
+  color: black  ;
+}

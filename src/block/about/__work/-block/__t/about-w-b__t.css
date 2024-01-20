@@ -1,0 +1,14 @@
+.about-w-b__t {
+    color: #020710;
+    font-family: "Outfit", Sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.1em;
+    letter-spacing: -0.1px;
+    padding: 0px 0px 20px 0px;
+}
+@media screen and (max-width: 769px) {
+  .about-w-b__t {
+    font-size: 36px;
+}
+}

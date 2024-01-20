@@ -1,0 +1,14 @@
+.c-b-t__title {
+    text-align: left;
+      color: #FFFFFF;
+      font-family: "Outfit", Sans-serif;
+      font-size: 36px;
+      font-weight: 500;
+      line-height: 1.5em;
+      letter-spacing: 0px;
+  }
+  @media screen and (max-width: 1200px) {
+    .c-b-t__title  {
+      font-size: 28px;
+     }
+  }

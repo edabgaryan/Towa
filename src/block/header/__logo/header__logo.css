@@ -1,0 +1,17 @@
+.header__logo {
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 140px;
+  z-index: 2;
+  background-image: url(../../../images/logo.png);
+}
+@media (max-width: 1200px) {
+  .header__logo {
+    height: 30px;
+    width: 90px;
+  }
+}

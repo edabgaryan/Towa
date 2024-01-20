@@ -1,0 +1,14 @@
+.s__second-btn {
+    background-color: #fff;
+    margin-left: 20px;
+  }
+  .s__second-btn:hover {
+    background-color: #FFB92B ;
+    color: black;
+  }
+  @media screen and (max-width: 760px) {
+    .s__second-btn {
+      margin-left: 0;
+      margin-top: 20px;
+    }
+  }

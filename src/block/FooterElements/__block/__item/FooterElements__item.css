@@ -1,0 +1,12 @@
+.FooterElements__item {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-items: center;
+  }
+  @media screen and (max-width: 1200px) {
+  .FooterElements__item {
+    flex-direction: column;
+    padding: 20px;
+  }
+  }

@@ -1,0 +1,11 @@
+.f-b__paragraph {
+    color: #020710A6;
+      font-family: "Outfit", Sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+  }
+  @media screen and (max-width: 1200px) {
+    .f-b__paragraph {
+        font-size: 16px;
+    }
+  }

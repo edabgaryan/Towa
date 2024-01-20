@@ -1,0 +1,12 @@
+.slider__title__item {
+    color: #FFB92B;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  @media screen and (max-width: 970px) {
+    .slider__title__item {
+      font-size: 14px;
+    }
+  }

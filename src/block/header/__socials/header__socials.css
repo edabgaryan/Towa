@@ -1,0 +1,8 @@
+.header__socials {
+  display: flex;
+  list-style-type: none;
+  position: relative;
+  z-index: 3;
+  margin-top: 20px;
+  margin-bottom: 0;
+}

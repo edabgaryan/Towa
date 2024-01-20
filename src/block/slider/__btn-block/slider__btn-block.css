@@ -1,0 +1,11 @@
+.slider__btn-block {
+    margin: 20px 0;
+  }
+  @media screen and (max-width: 760px) {
+    .slider__btn-block {
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      align-items: center;
+    }
+  }

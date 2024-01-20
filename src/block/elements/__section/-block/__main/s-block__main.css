@@ -1,0 +1,12 @@
+.s-block__main {
+    display: flex;
+    justify-content: space-around;
+  }
+  @media screen and (max-width: 970px) {
+    .s-block__main {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+  }

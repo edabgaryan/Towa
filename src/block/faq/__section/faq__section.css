@@ -1,0 +1,11 @@
+.faq__section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 45px;
+  }
+  @media screen and (max-width: 1200px) {
+    .faq__section {
+      grid-template-columns: repeat(1, 1fr);
+      padding: 0px 10px 0px 10px;
+    }
+  }

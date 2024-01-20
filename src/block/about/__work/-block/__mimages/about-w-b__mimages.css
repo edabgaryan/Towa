@@ -1,0 +1,10 @@
+.about-w-b__mimages {
+    padding: 20px 0px 20px 60px;
+  }
+  @media screen and (max-width: 1200px) {
+    .about-w-b__mimages {
+      padding: 20px 10px 20px 10px;
+      display: flex;
+      justify-content: center;
+    }
+  }
